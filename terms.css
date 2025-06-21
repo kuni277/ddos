@@ -1,0 +1,32 @@
+body{
+    background: url(background.jpg);
+    background-size: cover;
+}
+.transparent-container {
+  background-color: rgba(0, 0, 0, 0.5); /* Black with 50% transparency */
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  height: 820px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.line1{
+    width: 500px;
+}
+.line2{
+    width: 500px;
+}
+.line3{
+    width: 500px;
+}
+.ls{
+    color: red;
+    width: 300px;
+}
+.line4{
+    color: gray;
+}
+.Last{
+    color: green;
+}
